@@ -9,7 +9,7 @@ public class HelloWorld {
 
         System.out.println("hello world");
 
-        System.out.println("new line");
+        NewClass x = new NewClass(5);
 
     }
 
