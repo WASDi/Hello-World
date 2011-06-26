@@ -10,7 +10,7 @@ public class HelloWorld {
         System.out.println("Hello World!");
         System.out.println("kuk");
         System.out.println("kukar");
-        NewClass x = new NewClass(5);
+        NewClass x = new NewClass(10);
 
     }
 
