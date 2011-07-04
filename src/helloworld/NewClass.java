@@ -12,4 +12,8 @@ public class NewClass {
         this.x = x;
     }
 
+    public int getX() {
+        return x;
+    }
+
 }
